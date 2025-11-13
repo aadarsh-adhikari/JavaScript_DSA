@@ -1,0 +1,24 @@
+{
+  "name": "javascript-dsa",
+  "version": "1.0.0",
+  "description": "Data Structures and Algorithms problems in JavaScript from beginner to advanced",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [
+    "javascript",
+    "dsa",
+    "algorithms",
+    "data-structures",
+    "leetcode",
+    "coding-interview"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
