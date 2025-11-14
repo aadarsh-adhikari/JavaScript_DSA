@@ -1,0 +1,8 @@
+# JavaScript DSA - Git Ignore Configuration
+# ==========================================
+
+
+# Specific solution files
+beginner-dsa-solutions.js
+intermediate-dsa-solutions.js
+advanced-dsa-solutions.js
