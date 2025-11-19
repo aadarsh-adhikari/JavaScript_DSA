@@ -9,6 +9,19 @@
 2. Given an integer x, return true if x is a palindrome, and false otherwise.
     Explanation: 121 reads as 121 from left to right and from right to left.
     Example  Input: x = 121 Output: true 
+    
 3. Write a function to find the longest common prefix string amongst an array of strings.
     If there is no common prefix, return an empty string "".
     Example 1 Input: strs = ["flower","flow","flight"] Output: "fl"
+
+4.You are given an array of integers nums. You are also given an integer original which is the first number that needs to be searched for in nums.
+
+Example 1:
+
+ Input: nums = [5,3,6,1,12], original = 3
+ Output: 24
+ Explanation: 
+ - 3 is found in nums. 3 is multiplied by 2 to obtain 6.
+ - 6 is found in nums. 6 is multiplied by 2 to obtain 12.
+ - 12 is found in nums. 12 is multiplied by 2 to obtain 24.
+ - 24 is not found in nums. Thus, 24 is returned.
