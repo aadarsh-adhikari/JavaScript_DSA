@@ -17,30 +17,6 @@ JavaScript_DSA/
 └── README.md               # This file
 ```
 
-## 🎯 Learning Path
-
-### **Beginner Level (Problems 1-22)**
-- Arrays & Basic Operations
-- Strings & Basic Manipulation  
-- Basic Searching & Sorting
-- Basic Math Problems
-
-### **Intermediate Level (Problems 23-55)**
-- Advanced Array Problems
-- String Processing
-- Linked Lists
-- Stacks & Queues
-- Binary Trees (Basic)
-- Dynamic Programming (Basic)
-
-### **Advanced Level (Problems 56-100)**
-- Advanced Trees
-- Graph Algorithms
-- Advanced Dynamic Programming
-- Advanced Data Structures
-- Backtracking
-- Complex Algorithms
-
 ## 🔧 Environment Setup
 
 1. **Clone the repository:**
